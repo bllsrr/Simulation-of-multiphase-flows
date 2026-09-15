@@ -1,6 +1,6 @@
 # Simulation of multiphase flows
 
-These codes are the result of a month long internship at Institut d'Alembert, under the supervision of Daniel Fuster. The goal was to simulate multiphase flows and investigate the thermal and dynamic interactions between a droplet and a surrounding fluid. Modeling multiphase flows is central in modern engineering, as it is useful to solve many problems: cooling systems, nuclear reactor safety, etc. Accurately modeling heat transfer across such interfaces remains challenging, motivating comparisons between different simulation methods.  
+These codes are the result of a month long internship at Institut $\partial$'Alembert, under the supervision of Daniel Fuster. The goal was to simulate multiphase flows and investigate the thermal and dynamic interactions between a droplet and a surrounding fluid. Modeling multiphase flows is central in modern engineering, as it is useful to solve many problems: cooling systems, nuclear reactor safety, etc. Accurately modeling heat transfer across such interfaces remains challenging, motivating comparisons between different simulation methods.  
 
 ### Approach
 
